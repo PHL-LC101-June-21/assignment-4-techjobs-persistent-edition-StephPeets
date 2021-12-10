@@ -1,11 +1,11 @@
 -- Part 1: Test it with SQL
 
---    column, DATATYPE
-      -----------------
---    `id`, INT
---    `employer`, VARCHAR
---    `name`, VARCHAR
---     `skills`, VARCHAR
+--  Table: job
+--  Columns:
+--      id - int PK
+--      employer - varchar(255)
+--      name - varchar(255)
+--      skills - varchar(255)
 
 -- Part 2: Test it with SQL
 
